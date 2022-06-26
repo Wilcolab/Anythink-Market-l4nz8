@@ -7,3 +7,5 @@ Please find more info about each part in the relevant Readme file ([frontend](fr
 ## Development
 
 When implementing a new feature or fixing a bug, please create a new pull request against `main` from a feature/bug branch and add `@vanessa-cooper` as reviewer.
+
+Just make sure that you run all scripts in the next quests on one of the containers created by `docker-compose up`.  Also, you can use `docker exec` to run commands on a running container.
